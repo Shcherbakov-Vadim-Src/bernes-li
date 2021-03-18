@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body {
+    font-family: 'Roboto Slab', serif;
+}
+
+#main-conteiner-1 {
+    margin: 91px 124px;
+    display: flex;
+    flex-direction: row;
+}
+
+#main-conteiner-2 {
+    margin: 91px 124px;
+    display: flex;
+    flex-direction: row;
+}
+
+#conteiner-1 {
+    width: 610px;
+}
+
+#h1 {
+    font-family: 'Roboto Slab', serif;
+    font-size: 56px;    
+    margin: 0 0 40px 0;
+}
+
+.par-1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    margin: 0 0 0 0;
+    line-height: 1.5;
+    position: relative;
+    top: 10px;
+    width: 672px;
+}
+
+.par-2 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    margin: 40px 0 0 0;
+    line-height: 1.5; 
+    position: relative;
+    top: 5px;
+    width: 663px;  
+}
+
+#conteiner-2 {
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    flex-direction: row;
+    padding: 20px; 
+    position: relative;
+    bottom: 80px;
+    left: 10px;
+}
+
+#sub-conteiner-0 {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    bottom: 10px;
+}
+
+#sub-conteiner-1 {
+    display: flex;
+    flex-direction: column;
+    margin: 55px 0 0 60px;
+    position: relative;
+    bottom: 10px;
+}
+
+#sub-conteiner-2 {
+    display: flex;
+    flex-direction: column;
+    margin: 55px 0 0 0;
+    position: relative;
+    bottom: 10px;
+}
+
+#sub-conteiner-3 {
+    display: flex;
+    flex-direction: column;
+    margin: 55px 0 0 0;
+    position: relative;
+    bottom: 10px;
+}
+
+.par-3 {
+    font-weight: 800;
+    font-size: 24px;
+    width: 140px;
+    margin: 30px 60px 10px 30px;
+    position: relative;
+    top: 5px;
+    left: 7px;
+}
+
+.par-4 {
+    font-size: 18px;
+    width: 160px;
+    margin: 0 60px 0 30px;
+    position: relative;
+    top: 5px;
+    left: 7px;
+}
+
+#img-1 {
+    width: 366px;
+}
+
+#img-2 {
+    width: 232px;
+    position: relative;
+    top: 18px;
+    right: 32px;
+}
+
+#img-3 {
+    width: 189px;
+}
+
+#conteiner-3 {
+    margin: 130px 0 0 140px;
+    position: relative;
+    left: 75px;
+    top: 15px;
+}
